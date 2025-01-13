@@ -17,7 +17,7 @@ Make sure you have the following installed:
 
 ### Installation
 1. Clone the repository:
-   ```bash
+   ```bash (https://github.com/Rohitprajapatfjd/task-Management/edit/main/task-management/)
   (https://github.com/Rohitprajapatfjd/task-Management/edit/main/task-management/)
 
  2.  npm install (run a command in terminal)
